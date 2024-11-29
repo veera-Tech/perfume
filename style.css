@@ -1,0 +1,101 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background-color: gray;
+  color: white;
+  padding: 15px;
+}
+h1,
+ul,
+li {
+  display: inline;
+}
+ul {
+  margin-left: 60%;
+}
+li {
+  color: black;
+}
+li:hover {
+  color: white;
+  cursor: pointer;
+}
+input {
+  width: 60%;
+  padding: 15px;
+}
+.searchbar {
+  padding: 65px;
+  text-align: center;
+}
+.box {
+  border-color: black;
+  border-width: 5px;
+  border-style: solid;
+}
+img {
+  height: 200px;
+  width: 200px;
+}
+.box {
+  display: inline-block;
+  width: 200px;
+}
+
+.product {
+  text-align: center;
+}
+.about {
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+}
+.contact {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+.para {
+  color: gray;
+  margin-top: 20px;
+}
+.order {
+  background-color: gray;
+  color: white;
+  padding: 5px;
+  margin: 18px;
+  margin-top: 16px;
+}
+.order :hover {
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+.order1 {
+  background-color: gray;
+  color: white;
+  padding: 5px;
+  margin: 18px;
+  margin-top: 16px;
+}
+.order1:hover {
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+.order2 {
+  background-color: gray;
+  color: white;
+  padding: 5px;
+  margin: 18px;
+  margin-top: 16px;
+}
+.order2:hover {
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
